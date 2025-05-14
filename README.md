@@ -1,4 +1,4 @@
-![figma_page 1](https://github.com/user-attachments/assets/98b4d609-506d-4f8c-8738-1b345e6901ba)# Ex09 Event Registration Web Application
+# Ex09 Event Registration Web Application
 # Date:14/05/2025
 # AIM:
 To design, develop and deploy a web application for event registration.
