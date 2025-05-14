@@ -29,7 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
-```
+``` html
 Page 1
 
 <!DOCTYPE html>
@@ -572,7 +572,8 @@ Figma
 
 ![figma_page 1](https://github.com/user-attachments/assets/7fc4a182-26c9-4686-87c7-09015cd41ee2)
 ![figma_page 2](https://github.com/user-attachments/assets/3f86815a-f070-4ab3-a30f-909dc76faff5)
-![figma_page 3](https://github.com/user-attachments/assets/68638805-41bf-4bbf-b7f4-606f0249aec3)
+![figma_page 3](https://github.com/user-attachments/assets/c58e6300-5dab-4118-94f1-90132dc3821c)
+
 
 
 ![figma_page 4](https://github.com/user-attachments/assets/f6ce0967-72fc-4218-9f0c-8a88f01ecb5f)
