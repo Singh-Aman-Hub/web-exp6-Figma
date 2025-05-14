@@ -1,4 +1,4 @@
-# Ex09 Event Registration Web Application
+![figma_page 1](https://github.com/user-attachments/assets/98b4d609-506d-4f8c-8738-1b345e6901ba)# Ex09 Event Registration Web Application
 # Date:14/05/2025
 # AIM:
 To design, develop and deploy a web application for event registration.
@@ -569,23 +569,21 @@ Page 4
 ```
 # OUTPUT:
 Figma
-![alt text](<figma_page 1.png>)
 
-![alt text](<figma_page 2.png>)
+![figma_page 1](https://github.com/user-attachments/assets/7fc4a182-26c9-4686-87c7-09015cd41ee2)
+![figma_page 2](https://github.com/user-attachments/assets/3f86815a-f070-4ab3-a30f-909dc76faff5)
+![figma_page 3](https://github.com/user-attachments/assets/68638805-41bf-4bbf-b7f4-606f0249aec3)
 
-![alt text](<figma_page 3.png>)
 
-![alt text](<figma_page 4.png>)
+![figma_page 4](https://github.com/user-attachments/assets/f6ce0967-72fc-4218-9f0c-8a88f01ecb5f)
+
 
 Webpage
+![browser_page 1](https://github.com/user-attachments/assets/89ef8e96-70db-4d23-8dc1-4d187d82b2ba)
+![browser_page 2](https://github.com/user-attachments/assets/1ea2116c-602d-42d3-8058-bde99e1893ac)
+![browser_page 3](https://github.com/user-attachments/assets/8a31ae9c-757b-4d12-ab1f-0697e06c4492)
 
-![alt text](<browser_page 1.png>)
-
-![alt text](<browser_page 2.png>)
-
-![alt text](<browser_page 3.png>)
-
-![alt text](<browser_page 4.png>)
+![browser_page 4](https://github.com/user-attachments/assets/7b4fce7f-ceae-489c-978e-bd9584dc63a8)
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
